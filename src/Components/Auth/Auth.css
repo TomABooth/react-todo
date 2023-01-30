@@ -1,0 +1,21 @@
+main {
+  height: 95vh;
+  background-color: #011638;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20vh;
+  border: 2px solid #eec643;
+  padding: 5vh;
+  height: 15vh;
+  gap: 2vh;
+  border-radius: 8px;
+  background-color: #eef0f2;
+}
