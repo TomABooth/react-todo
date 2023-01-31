@@ -22,3 +22,7 @@ ul {
   text-decoration: none;
   color: #eec643;
 }
+
+li {
+  list-style: none;
+}
