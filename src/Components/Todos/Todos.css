@@ -1,0 +1,28 @@
+.todo-main {
+  height: 95vh;
+  background-color: #011638;
+  display: grid;
+  grid-template-rows: 1fr 3fr;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-input {
+  border: 2px solid #eec643;
+  padding: 3vh;
+  border-radius: 8px;
+  background-color: #eef0f2;
+}
+
+ul {
+  text-decoration: none;
+  color: #eec643;
+}
+
+li {
+  list-style: none;
+}
